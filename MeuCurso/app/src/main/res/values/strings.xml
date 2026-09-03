@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Meu Curso</string>
+
+    <!-- Tela Home -->
+    <string name="instituicao_nome">Tech Academy</string>
+    <string name="curso_nome">Análise e Desenvolvimento de Sistemas</string>
+    <string name="home_descricao">Aprenda a construir soluções tecnológicas de alto impacto com foco na prática e no mercado.</string>
+    <string name="btn_conheca_curso">Conheça o Curso</string>
+    <string name="btn_disciplinas">Disciplinas</string>
+
+    <!-- Tela Sobre -->
+    <string name="duracao_label">Duração: 2.5 anos (5 semestres)</string>
+    <string name="modalidade_label">Modalidade: EAD / Presencial</string>
+    <string name="sobre_descricao_detalhada">O curso prepara o estudante para projetar, documentar, testar, implementar e manter sistemas computacionais e de informação. O aluno aprenderá a trabalhar com metodologias ágeis, banco de dados modernos e desenvolvimento mobile e web.</string>
+    <string name="btn_voltar">Voltar</string>
+
+    <!-- Tela Disciplinas -->
+    <string name="titulo_disciplinas">Disciplinas do Curso</string>
+    <string name="d_programacao">Programação Orientada a Objetos</string>
+    <string name="d_banco_dados">Banco de Dados Relacionais e NoSQL</string>
+    <string name="d_engenharia">Engenharia de Software e Agilidade</string>
+    <string name="d_web">Desenvolvimento Web Full Stack</string>
+    <string name="d_mobile">Desenvolvimento Mobile Android</string>
+    <string name="d_ia">Inteligência Artificial e Machine Learning</string>
+</resources>
